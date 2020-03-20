@@ -1,2 +1,2 @@
-print('hello world!!!')
-print('New commit!!')
+print('Hello world!!!')
+print('hello world')
